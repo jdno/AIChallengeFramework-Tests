@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Map\ContinentTests.cs" />
+    <Compile Include="Map\RegionTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Map\" />
