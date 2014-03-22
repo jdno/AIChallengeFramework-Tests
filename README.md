@@ -8,7 +8,7 @@ https://github.com/jdno/AIChallengeFramework
 ## Issue reporting
 
 If you are experiencing any problems, please open an issue on GitHub:
-https://github.com/jdno/AIChallengeFramework/issues
+https://github.com/jdno/AIChallengeFramework-Tests/issues
 
 ## License
 
