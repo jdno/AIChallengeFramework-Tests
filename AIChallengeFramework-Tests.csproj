@@ -47,8 +47,10 @@
     <Compile Include="Map\ContinentTests.cs" />
     <Compile Include="Map\RegionTests.cs" />
     <Compile Include="Map\MapTests.cs" />
+    <Compile Include="Game\StateTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Map\" />
+    <Folder Include="Game\" />
   </ItemGroup>
 </Project>
